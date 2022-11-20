@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="595ffda9-9a68-4a86-8246-f31280996eb4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZQo1jOgKVK4e2y6sqPZkRYwp0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\janar\WebstormProjects\mead\stills\stel" />
+      <recent name="C:\Users\janar\WebstormProjects\mead\stills" />
+      <recent name="C:\Users\janar\WebstormProjects\mead\stills\pocce" />
+      <recent name="C:\Users\janar\WebstormProjects\mead\abuot" />
+      <recent name="C:\Users\janar\WebstormProjects\mead\abuot\about" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="595ffda9-9a68-4a86-8246-f31280996eb4" name="Changes" comment="" />
+      <created>1668490297061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668490297061</updated>
+      <workItem from="1668490298524" duration="7000" />
+      <workItem from="1668490314296" duration="11483000" />
+      <workItem from="1668509343877" duration="5880000" />
+      <workItem from="1668578477265" duration="4185000" />
+      <workItem from="1668582810025" duration="10061000" />
+      <workItem from="1668594712676" duration="2111000" />
+      <workItem from="1668597124821" duration="222000" />
+      <workItem from="1668597737254" duration="86000" />
+      <workItem from="1668598011985" duration="139000" />
+      <workItem from="1668598183356" duration="1384000" />
+      <workItem from="1668599804655" duration="2012000" />
+      <workItem from="1668602260341" duration="3862000" />
+      <workItem from="1668664051833" duration="4137000" />
+      <workItem from="1668675089425" duration="10149000" />
+      <workItem from="1668757389112" duration="3635000" />
+      <workItem from="1668766732953" duration="37000" />
+      <workItem from="1668766789408" duration="66000" />
+      <workItem from="1668766944972" duration="287000" />
+      <workItem from="1668767267174" duration="168000" />
+      <workItem from="1668767510334" duration="4044000" />
+      <workItem from="1668771647777" duration="5581000" />
+      <workItem from="1668824180772" duration="999000" />
+      <workItem from="1668825368868" duration="22338000" />
+      <workItem from="1668921275803" duration="3620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
